@@ -1,0 +1,28 @@
+div.page{
+    position: fixed;
+    top: -0.5%;
+    left: -0.5%;
+    width: 100.5vw;
+    height: 100.5vh;
+    background: #f8dce0
+}
+img.kadomatu1{
+    position: fixed;
+    bottom: 5%;
+    left: 5%;
+    width: 20%;
+
+}
+img.kadomatu2{
+    position: fixed;
+    bottom: 5%;
+    right: 5%;
+    width: 20%;
+}
+img.huzi{
+    position: fixed;
+    opacity: 90%;
+    bottom: 5%;
+    left: 13%;
+    width: 80%;
+}
