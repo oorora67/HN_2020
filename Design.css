@@ -227,6 +227,7 @@ div.arch{
     font-size: 8vw;/* 36px*/
     top: 5%;
     left: 28%;
+    text-shadow:0.2vw 0.2vh 0.3vw #f00;
 }
 div.arch2{
     position: fixed;
@@ -234,4 +235,4 @@ div.arch2{
     font-size: 4vw;
     top: 30%;
     left: 20.5%;
-}
+    text-shadow:0.2vw 0.2vh 0.3vw #f00;
