@@ -30,7 +30,6 @@ div.arch{
     position: fixed;
     font-family: "Sawarabi Mincho";
     font-size: 8vw;/* 36px*/
-    opacity: 90%;
     top: 5%;
     left: 28%;
 }
@@ -38,7 +37,6 @@ div.arch2{
     position: fixed;
     font-family: "Sawarabi Mincho";
     font-size: 2vw;/* 36px*/
-    opacity: 90%;
     top: 30%;
     left: 34%;
 }
