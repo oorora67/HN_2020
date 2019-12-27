@@ -26,3 +26,11 @@ img.huzi{
     left: 13%;
     width: 80%;
 }
+div.arch{
+    position: fixed;
+    font-family: "Sawarabi Mincho";
+    font-size: 8vw;/* 36px*/
+    opacity: 90%;
+    top: 5%;
+    left: 28%;
+}
